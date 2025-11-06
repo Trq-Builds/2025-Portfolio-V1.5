@@ -1,9 +1,9 @@
 # `🪪`︲2025-Portfolio-V1
 ---
 
-> **Version :** 1.0 — Réalisé dans le cadre du **BTS SIO - Option SISR (Épreuve E5, Session 2025)**  
-> **Auteur :** *Tariq*  
-> **Statut :** En cours d’amélioration... (BETA) ♻️  
+> `🔻`︲**Version :** 1.0 — Réalisé dans le cadre du **BTS SIO - Option SISR (Épreuve E5, Session 2025)**  
+> `◾`︲**Auteur :** *Tariq*  
+> `🔸`︲**Statut :** En cours d’amélioration... (BETA) ♻️  
 
 ---
 
@@ -80,14 +80,5 @@ Aucune dépendance, aucun build : le site est **100 % statique** et prêt à l�
 > * `🎚️`︲Nora Player ︲[`🌐`](https://noramusic.netlify.app/)
 > * `🎶`︲Mac DeMarco — 20200229 2 ︲[`🌐`](https://youtu.be/Y_KLjGEQTgY)
 
----
+--- 
 
-## `📎`︲Crédits et licence
----
-
-Ce portfolio est publié sous **licence MIT**.  
-Libre d’adaptation, de partage et d’amélioration, à condition de citer la source originale.
-
-> 🧠 *« L’optimisation »* — caca
-
----
