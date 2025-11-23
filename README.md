@@ -19,7 +19,8 @@
 ## ` 📘 `︲Description du projet.
 
 ---
-Arborescence ASCII : 
+
+`🔩`︲Arborescence ASCII : 
 ```markdown
 2025-Portfolio-V1.4/
 │
