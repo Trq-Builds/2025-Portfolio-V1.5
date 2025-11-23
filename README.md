@@ -37,7 +37,8 @@
 │   │   ├── logo.ico            # Favicon
 │   │   └── my-avatar.png       # Photo de profil
 │   └── js/
-│       └── script.js           # Scripts principaux
+│       ├──script.js           # Scripts principaux
+|       └── theme-toggle.js    # Mode Jour/Nuit
 │
 ├── index.html                  # Page unique (SPA)
 ├── README.md                   # Documentation
