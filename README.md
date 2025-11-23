@@ -8,7 +8,7 @@
 
 - ` 👤 `︲**Auteur :** *Trq-Builds*
 
-- ` 🟧 `︲**Statut :** **SUSPENDU** (Reherche de Solutions en cours...)
+- ` 🟧 `︲**Statut :** **SUSPENDU** (Reherche de Solutions en cours... 40%)
 
 - ` 🟡 `︲**Source/Fork :** https://github.com/codewithsadee/vcard-personal-portfolio
 
