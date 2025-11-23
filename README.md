@@ -25,17 +25,23 @@ Arborescence ASCII :
 │
 ├── assets/
 │   ├── css/
-│   │   ├── style.css        # Feuille de style principale
-│   │   └── responsive.css   # (Optionnel) Gestion spécifique des media queries
-│   ├── img/
-│   │   ├── profile.jpg      # Photo de profil
-│   │   ├── projects/        # Screenshots des projets
-│   │   └── icons/           # Icônes (SVG ou PNG)
+│   │   └── style.css           # Feuille de style unique
+│   ├── images/
+│   │   ├── icon-app.svg        # Icône applications
+│   │   ├── icon-design.svg     # Icône design
+│   │   ├── icon-dev.svg        # Icône développement
+│   │   ├── icon-photo.svg      # Icône photo
+│   │   ├── icon-quote.svg      # Icône citation
+│   │   ├── logo.svg            # Logo principal
+│   │   ├── logo.ico            # Favicon
+│   │   └── my-avatar.png       # Photo de profil
 │   └── js/
-│       └── main.js          # Scripts légers (ex: menu burger, scroll smooth)
+│       └── script.js           # Scripts principaux
 │
-├── index.html               # Point d'entrée principal (Structure Sémantique)
-└── README.md                # Documentation du projet
+├── index.html                  # Page unique (SPA)
+├── README.md                   # Documentation
+├── .gitignore                  # Fichiers Git ignorés
+└── index.txt                   # Contenu textuel (structure)
 
 ```
 
