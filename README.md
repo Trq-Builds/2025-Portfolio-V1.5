@@ -64,7 +64,7 @@
 
 `🚧`︲**Limitations actuelles :**
 - Section Portfolio vide (en attente de projets...)
-- Thème sombre.
+- Responsive à Fix sur téléphone bouton Jour/Nuit mal placé...
 
 ---
 
