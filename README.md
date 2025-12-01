@@ -20,7 +20,7 @@
 
 ---
 
-`🔩`︲Arborescence ASCII : 
+`🔩`**︲Arborescence ASCII : **
 ```markdown
 2025-Portfolio-V1.4/
 │
@@ -102,7 +102,7 @@ Aucune dépendance, aucun build : le site est **100 % statique** et prêt à l�
 - ` 🤖 ` **︲Claude-sonnet-4-5-`20250929-thinking-32k`** ︲[`🌐`](https://claude.ai/)
 - ` 😺 ` **︲GitHub Dekstop** ︲[`🌐`](https://github.com/apps/desktop)
 - ` 🤖 ` **︲GPT-5** ︲[`🌐`](https://chatgpt.com/)
-- ` 🤖` **︲lmarena.ai** ︲[`🌐`](https://lmarena.ai/)
+- ` 🤖 ` **︲lmarena.ai** ︲[`🌐`](https://lmarena.ai/)
 - ` 🌐 ` **︲Netlifly** ︲[`🌐`](https://app.netlify.com/)
 - ` 🌐 ` **︲Code Source:** codewithsadee/vcard-personal-portfolio ︲[`🌐`](https://github.com/codewithsadee/vcard-personal-portfolio)
 - ` 🌐 ` **︲VisualStudioCode (`IDE`)** ︲[`🌐`](https://code.visualstudio.com/)
